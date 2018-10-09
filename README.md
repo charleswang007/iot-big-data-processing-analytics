@@ -2,7 +2,9 @@
 
 ## Background
 
-Final Project for UCSC Extenstion Course *Internet of Things (IoT) Big Data Processing and Analytics*
+Final Project for UCSC Extenstion Course **_Internet of Things (IoT) Big Data Processing and Analytics_** (taken in 2018 Spring)
+
+Instructor: Hinkmond Wong
 
 Course Description: 
 
